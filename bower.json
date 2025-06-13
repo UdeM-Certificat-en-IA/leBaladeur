@@ -1,8 +1,8 @@
 {
   "name": "podlove-web-player",
   "version": "2.1.0-beta",
-  "homepage": "http://podlove.org/",
-  "description": "Next generation media player for the web. Special features for podcast and other metadata rich productions.",
+  "homepage": "http://lebaladeur.udem.org/",
+  "description": "reproducteur webb pour des balados.",
   "main": "dist/*",
   "ignore": [
     "**/.*",
