@@ -80,12 +80,6 @@ Avec sourcemaps :
 
     browserify -d js/app.js | minifyify > static/podlove-web-player.js
 
-## Informations
-
-**Important !**
-
-Le plugin WordPress qui inclut uniquement Le Baladeur sera déplacé vers son propre dépôt.
-
 ## Développement
 
 Compiler, servir et surveiller le dépôt local avec live reload :
@@ -112,4 +106,4 @@ Pushez la branche :
 
 Créez une Pull Request
 
-Version : 2.1.0-alpha
+Version : v-0.0.1
