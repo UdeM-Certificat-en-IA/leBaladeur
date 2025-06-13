@@ -1,6 +1,6 @@
 {
   "name": "leBaladeur",
-  "version": "2.1.0-beta",
+  "version": "0.0.1-beta",
   "homepage": "http://lebaladeur.udem.org/",
   "description": "reproducteur webb pour des balados.",
   "main": "dist/*",
