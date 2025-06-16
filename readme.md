@@ -107,3 +107,12 @@ Pushez la branche :
 Créez une Pull Request
 
 Version : v-0.0.1
+## Docker Compose
+
+Pour construire et lancer le lecteur avec Docker Compose :
+
+```bash
+docker compose up --build
+```
+
+Puis accédez à `http://localhost:8080/examples/index.html`.
