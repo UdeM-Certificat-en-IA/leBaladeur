@@ -11,5 +11,5 @@
     "src/**/*.js": ["browserify"],
     "spec/**/*.js": ["browserify"]
   },
-  "browsers": ["PhantomJS"]
+  "browsers": ["ChromeHeadless"]
 }
